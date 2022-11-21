@@ -1,0 +1,11 @@
+[
+  {
+    "id": "string",
+    "email": "string",
+    "retellAmount": 0,
+    "address": "string",
+    "isActive": true,
+    "status": "string",
+    "exchangerId": "string"
+  }
+]
